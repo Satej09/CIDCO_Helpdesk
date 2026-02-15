@@ -1,0 +1,29 @@
+{
+  "1": {
+    "name": "Housing",
+    "options": {
+      "1": {
+        "title": "Current housing schemes",
+        "response": "CIDCO offers housing schemes under EWS, LIG, and MIG categories."
+      },
+      "2": {
+        "title": "Eligibility criteria",
+        "response": "Applicant must be 18+ and should not own a house in CIDCO area."
+      }
+    }
+  },
+
+  "2": {
+    "name": "RTI",
+    "options": {
+      "1": {
+        "title": "How to file RTI",
+        "response": "You can file RTI through official CIDCO RTI portal."
+      },
+      "2": {
+        "title": "RTI Officer Contact",
+        "response": "RTI Officer: Mr. Rajesh Patil\nPhone: 022-12345678\nEmail: rti@cidco.maharashtra.gov.in"
+      }
+    }
+  }
+}
